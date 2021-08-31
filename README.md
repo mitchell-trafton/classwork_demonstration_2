@@ -2,4 +2,3 @@ Program created for my Computer Architecture class. Runs RISC-V assembly languag
 
 Designed to run on linux systems.
 
-Main file is memory.cpp.
